@@ -13,3 +13,5 @@ let b = 10;
 let result = 5 + 10;
 
 console.log("object");
+
+console.log("object");
