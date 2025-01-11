@@ -1,4 +1,5 @@
 console.log("Hello world");
+console.log("qwe");
 
 console.log("JS1");
 console.log("JS2");
