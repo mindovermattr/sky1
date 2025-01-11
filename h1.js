@@ -15,3 +15,5 @@ let result = 5 + 10;
 console.log("object");
 
 console.log("object");
+
+console.log("qweqwe");
